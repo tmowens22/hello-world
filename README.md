@@ -1,2 +1,1 @@
-# hello-world
-learning to code
+I have just started learning to code.
